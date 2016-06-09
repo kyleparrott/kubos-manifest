@@ -33,4 +33,5 @@
   <project name="target-msp430f5529-gcc" path="yotta_targets/target-msp430f5529-gcc"/>
   <project name="target-arm-linux-gcc" path="yotta_targets/target-arm-linux-gcc"/>
 
+  <project name="kubos-rt-example" path="examples/kubos-rt-example"/>
 </manifest>
